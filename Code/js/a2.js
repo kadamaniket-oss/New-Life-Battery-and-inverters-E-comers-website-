@@ -20,5 +20,5 @@ function addAndRedirect(title, image, price, category = "battery") {
 
     console.log("Cart Updated:", cartItems); // DEBUG
 
-    window.location.href = "cart-page.html";
+    window.location.href = "cart_page.html";
 }
